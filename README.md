@@ -96,7 +96,7 @@ Pasos:
 
 ## Ejemplo de Ejecucion
 
-### Servidor:
+## Servidor:
 
 2026-04-20 15:30:00 - INFO - Servidor de preguntas iniciado
 2026-04-20 15:30:00 - INFO - Escuchando en localhost:5000
@@ -106,7 +106,7 @@ Pasos:
 2026-04-20 15:30:10 - INFO - Respuesta guardada [ID:1] - Correcta: True
 2026-04-20 15:31:00 - INFO - Cliente #1 desconectado - Puntaje final: 12/15
 
-### Cliente:
+## Cliente:
 
 ==================================================
 BIENVENIDO AL JUEGO DE PREGUNTAS Y RESPUESTAS
@@ -186,10 +186,6 @@ Sebastian Gutierrez
 GitHub: https://github.com/MSebastianGutierrez
 Materia: Programacion en Redes - 5° Semestre
 Fecha: Abril 2026
-
-## Fecha de Entrega
-
-Actividad: 13/04 al 19/04/2026
 
 ## Licencia
 
