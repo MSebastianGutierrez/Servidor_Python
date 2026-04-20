@@ -97,13 +97,14 @@ Pasos:
 ## Estructura del Proyecto
 
 Servidor_Python/
-├── server.py           Servidor con juego de preguntas
 
-├── client.py           Cliente interactivo
+├── server.py          # Servidor con juego de preguntas
 
-├── mensajes.db         Base de datos SQLite (se crea automaticamente)
+├── client.py          # Cliente interactivo
 
-└── README.md           Documentacion
+├── mensajes.db        # Base de datos SQLite (se crea automaticamente)
+
+└── README.md          # Documentacion
 
 ## Arquitectura del Codigo
 
