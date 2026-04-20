@@ -98,8 +98,11 @@ Pasos:
 
 Servidor_Python/
 ├── server.py           Servidor con juego de preguntas
+
 ├── client.py           Cliente interactivo
+
 ├── mensajes.db         Base de datos SQLite (se crea automaticamente)
+
 └── README.md           Documentacion
 
 ## Arquitectura del Codigo
