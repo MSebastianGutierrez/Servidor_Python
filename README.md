@@ -10,7 +10,7 @@ Trabajo Practico - 1er Cuatrimestre 2026
 
 ## Funcionalidades
 
-### Servidor (server.py)
+## Servidor (server.py)
 
 - Escucha en localhost:5000
 - Acepta multiples clientes simultaneos (usando threading)
@@ -23,7 +23,7 @@ Trabajo Practico - 1er Cuatrimestre 2026
 - Logging completo de operaciones
 - Codigo modular con clases separadas
 
-### Cliente (client.py)
+## Cliente (client.py)
 
 - Se conecta al servidor en localhost:5000
 - Recibe preguntas del servidor y envia respuestas
