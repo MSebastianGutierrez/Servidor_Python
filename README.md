@@ -94,51 +94,6 @@ Pasos:
    - Escribe tu respuesta y presiona Enter
    - Escribe "exito" para salir
 
-## Ejemplo de Ejecucion
-
-## Servidor:
-
-2026-04-20 15:30:00 - INFO - Servidor de preguntas iniciado
-2026-04-20 15:30:00 - INFO - Escuchando en localhost:5000
-2026-04-20 15:30:00 - INFO - Total de preguntas: 15
-2026-04-20 15:30:05 - INFO - Cliente #1 conectado desde 127.0.0.1:54321
-2026-04-20 15:30:10 - INFO - Cliente #1 respondio: paris
-2026-04-20 15:30:10 - INFO - Respuesta guardada [ID:1] - Correcta: True
-2026-04-20 15:31:00 - INFO - Cliente #1 desconectado - Puntaje final: 12/15
-
-## Cliente:
-
-==================================================
-BIENVENIDO AL JUEGO DE PREGUNTAS Y RESPUESTAS
-Cliente #1
-IP: 127.0.0.1:54321
-==================================================
-El servidor te hara 15 preguntas.
-Responde correctamente para sumar puntos.
-Escribe 'exito' en cualquier momento para terminar.
-==================================================
-Buena suerte!
-
-==================================================
-PREGUNTA 1 de 15
-==================================================
-Cual es la capital de Francia?
-==================================================
-Escribe tu respuesta (o 'exito' para terminar):
-
-Tu: paris
-Servidor: CORRECTO! +1 punto. Puntaje actual: 1/1
-
-... (continua)
-
-==================================================
-JUEGO FINALIZADO
-==================================================
-Tu puntaje: 13 / 15
-Porcentaje: 86.7%
-==================================================
-Gracias por jugar! Conexion cerrada.
-
 ## Estructura del Proyecto
 
 Servidor_Python/
@@ -179,13 +134,6 @@ Mi implementacion:
 - Evaluacion de respuestas
 - Puntaje en vivo
 - Estadisticas finales
-
-## Autor
-
-Sebastian Gutierrez
-GitHub: https://github.com/MSebastianGutierrez
-Materia: Programacion en Redes - 5° Semestre
-Fecha: Abril 2026
 
 ## Licencia
 
